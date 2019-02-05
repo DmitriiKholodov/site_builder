@@ -1,0 +1,11 @@
+/*include global css*/
+@import "global/_variables.css";
+@import "global/_global.css";
+@import "global/_header.css";
+@import "global/_footer.css";
+
+/*include pages styles*/
+@import "partial/index.css";
+
+/*include media styles*/
+@import "global/_media.css";

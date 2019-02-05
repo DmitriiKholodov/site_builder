@@ -1,0 +1,16 @@
+
+/*
+@define-mixin bg $pic, $position: center, $size: contain {
+  background-image: resolve($(pic).png);
+  background-position: $position;
+  background-size: $size;
+  background-repeat: no-repeat;
+}
+
+@define-mixin bg2 $pic, $position: center, $cover: contain {
+  background-image: resolve($(pic).jpg);
+  background-position: $position;
+  background-size: $size;
+  background-repeat: no-repeat;
+}
+*/

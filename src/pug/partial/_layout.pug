@@ -1,0 +1,13 @@
+doctype html
+html(lang='ru')
+  head
+    include _head
+  body
+    //include _preloader
+
+    include _header
+    block content
+    include _footer
+
+    include _scripts
+    script(type='text/javascript', src='js/main.js')
